@@ -1,9 +1,12 @@
 # Social Media Insights Agent
 
+## Project Flow
+
+![Langflow](https://github.com/user-attachments/assets/7e25983f-ae15-4835-9a05-d91473f3bd31)
+
 ## Project Description
 The **Social Media Insights Agent** is an advanced AI-driven system designed to analyze social media data and provide actionable insights. By leveraging cutting-edge technologies such as Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs), this agent enables users to extract detailed information, identify trends, and optimize content strategies based on real data.
 
----
 
 ## Key Features
 
@@ -47,11 +50,9 @@ The **Social Media Insights Agent** is an advanced AI-driven system designed to 
 
 ---
 
-## Project Goals
-- Empower users with easy access to meaningful social media insights.
-- Streamline data analysis and content optimization processes.
-- Enable data-driven decision-making for enhanced social media performance.
+## Streamlit Deployment
+You can interact with the Social Media Insights Agent via the Streamlit app:
+
+👉 [Social Media Insights AI Agent](https://social-media-insights-ai-agent-mgfkxmqecgvupeny2a32ix.streamlit.app/)
 
 ---
-
-This project bridges the gap between raw social media data and actionable insights, helping users effectively understand and improve their content strategies.
