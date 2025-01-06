@@ -128,7 +128,7 @@
                 "placeholder": "",
                 "show": true,
                 "name": "input_value",
-                "value": "average likes of all posts type reels",
+                "value": "can you tell me total how many posts are there ",
                 "display_name": "Text",
                 "advanced": false,
                 "input_types": [
@@ -1308,7 +1308,7 @@
                 "placeholder": "",
                 "show": true,
                 "name": "groq_api_key",
-                "value": "new_user",
+                "value": "",
                 "display_name": "Groq API Key",
                 "advanced": false,
                 "input_types": [
@@ -1813,7 +1813,7 @@
                 "placeholder": "",
                 "show": true,
                 "name": "token",
-                "value": "ASTRA_DB_APPLICATION_TOKEN",
+                "value": "",
                 "display_name": "Astra DB Application Token",
                 "advanced": false,
                 "input_types": [
@@ -2334,7 +2334,7 @@
                 "placeholder": "",
                 "show": true,
                 "name": "groq_api_key",
-                "value": "new_user",
+                "value": "",
                 "display_name": "Groq API Key",
                 "advanced": false,
                 "input_types": [
@@ -2783,7 +2783,7 @@
                 "placeholder": "",
                 "show": true,
                 "name": "api_endpoint",
-                "value": "https://55b5a403-ef58-4c07-a8c6-f67dc09b6bfc-us-east-2.apps.astra.datastax.com",
+                "value": "",
                 "display_name": "API Endpoint",
                 "advanced": false,
                 "input_types": [
@@ -3268,7 +3268,7 @@
                 "placeholder": "",
                 "show": true,
                 "name": "token",
-                "value": "ASTRA_DB_APPLICATION_TOKEN",
+                "value": "",
                 "display_name": "Astra DB Application Token",
                 "advanced": false,
                 "input_types": [
@@ -3862,7 +3862,7 @@
                 "placeholder": "",
                 "show": true,
                 "name": "groq_api_key",
-                "value": "new_user",
+                "value": "",
                 "display_name": "Groq API Key",
                 "advanced": false,
                 "input_types": [
@@ -4225,7 +4225,7 @@
                 "placeholder": "",
                 "show": true,
                 "name": "token",
-                "value": "ASTRA_DB_APPLICATION_TOKEN",
+                "value": "",
                 "display_name": "Astra DB Application Token",
                 "advanced": false,
                 "input_types": [
@@ -4899,7 +4899,7 @@
                 "placeholder": "",
                 "show": true,
                 "name": "groq_api_key",
-                "value": "new_user",
+                "value": "",
                 "display_name": "Groq API Key",
                 "advanced": false,
                 "input_types": [
@@ -5773,7 +5773,7 @@
                 "placeholder": "",
                 "show": true,
                 "name": "groq_api_key",
-                "value": "new_user",
+                "value": "",
                 "display_name": "Groq API Key",
                 "advanced": false,
                 "input_types": [
@@ -6689,7 +6689,7 @@
                 "placeholder": "",
                 "show": true,
                 "name": "groq_api_key",
-                "value": "new_user",
+                "value": "",
                 "display_name": "Groq API Key",
                 "advanced": false,
                 "input_types": [
