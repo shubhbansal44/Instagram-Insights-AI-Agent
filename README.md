@@ -1,7 +1,7 @@
-# Instagram Insights Agent
+# Social Media Insights Agent
 
 ## Project Description
-The **Instagram Insights Agent** is an advanced AI-driven system designed to analyze Instagram data and provide actionable insights. By leveraging cutting-edge technologies such as Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs), this agent enables users to extract detailed information, identify trends, and optimize content strategies based on real data.
+The **Social Media Insights Agent** is an advanced AI-driven system designed to analyze social media data and provide actionable insights. By leveraging cutting-edge technologies such as Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs), this agent enables users to extract detailed information, identify trends, and optimize content strategies based on real data.
 
 ---
 
@@ -9,7 +9,7 @@ The **Instagram Insights Agent** is an advanced AI-driven system designed to ana
 
 ### 1. **Data Retrieval and Analysis**
 - Fetches post-specific details using unique `post_id`s from a provided dataset.
-- Extracts critical metrics such as post type (e.g., photo, video, reel), likes, comments, and captions for precise analysis.
+- Extracts critical metrics such as post type (e.g., text, photo, video, reel), likes, comments, and captions for precise analysis.
 
 ### 2. **Insight Generation**
 - Calculates averages and engagement metrics to provide a clear picture of overall content performance.
@@ -27,9 +27,9 @@ The **Instagram Insights Agent** is an advanced AI-driven system designed to ana
 ---
 
 ## How It Works
-1. **Input**: Users provide a dataset containing Instagram post details and specific questions or post IDs.
+1. **Input**: Users provide a dataset containing social media post details and specific questions or post IDs.
 2. **Processing**: The agent processes the input and retrieves relevant data using advanced retrieval tools.
-3. **Output**: Insights and recommendations are generated based on the retrieved data, enabling users to optimize their Instagram content and engagement strategies.
+3. **Output**: Insights and recommendations are generated based on the retrieved data, enabling users to optimize their social media content and engagement strategies.
 
 ---
 
@@ -48,10 +48,10 @@ The **Instagram Insights Agent** is an advanced AI-driven system designed to ana
 ---
 
 ## Project Goals
-- Empower users with easy access to meaningful Instagram insights.
+- Empower users with easy access to meaningful social media insights.
 - Streamline data analysis and content optimization processes.
 - Enable data-driven decision-making for enhanced social media performance.
 
 ---
 
-This project bridges the gap between raw Instagram data and actionable insights, helping users effectively understand and improve their content strategies.
+This project bridges the gap between raw social media data and actionable insights, helping users effectively understand and improve their content strategies.
